@@ -42,6 +42,3 @@ IPTVPro下载蓝奏云盘密码：g9x2
 
 
 自定义电视电影资源AV
-https://raw.githubusercontent.com/ww123456789-1/IPTV----APPtxt--m3u-iptvPro-APP/main/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%B5%E8%A7%86%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90AV.txt
-
-https://raw.githubusercontent.com/ww123456789-1/IPTV----APPtxt--m3u-iptvPro-APP/main/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%B5%E8%A7%86%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90AV.m3u
